@@ -1,4 +1,4 @@
-# KWT Wordpress to HTML Converter
+# KWT WordPress to HTML Converter
 
 KWT WordPress to HTML Converter is a powerful desktop solution for converting WordPress websites into portable static files. This minimizes the need for a live WordPress environment, which makes it much easier to distribute, archive, and migrate website content. The application provides an easy way to save time and effort whether you are a developer generating static websites, a firm archiving web content, or a blogger recycling posts. The software can export WordPress data as HTML, Markdown (MD) and JSON. So it’s great for static website deployment, documentation, and data integration. It accurately processes website pages, blog posts, categories, tags, menus and media references maintaining the original content structure for a consistent outcome. Due to its straightforward interface it is easy to use for all users without the need to go through complex configurations. The files that result are small, easy to work with, and ready to utilize on a variety of platforms. It also provides a free trial, so users can convert up to 10 WordPress posts before buying the licensed version.
 
